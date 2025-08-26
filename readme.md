@@ -4,6 +4,10 @@
 
 ---
 
+## Episode index
+
+[./episode_markdowns/Episode_Index.md](./episode_markdowns/Episode_Index.md)
+
 ## The Mission
 
 **User**: "my dad is the interviewer of closing the loop! i want to download all his transcripts. https://news.wjct.org/closing-the-loop this is the site where there's all stored. can you fetch it and we discuss how to enumerate them all"
