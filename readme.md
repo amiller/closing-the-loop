@@ -6,7 +6,7 @@
 
 ## Episode Index
 
-[./episode_markdowns/Episode_Index.md](./episode_markdowns/Episode_Index.md)
+[Episode Index](./episode_markdowns/readme.md)
 
 ## About the Show
 
