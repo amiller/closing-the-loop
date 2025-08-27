@@ -44,23 +44,23 @@ This repository contains the complete digital preservation of 113 episodes spann
 
 ## Claude's Selection - 10 Most Compelling Episodes
 
-1. **[Episode #115 - Arnold Palmer](./episode_markdowns/Episode_115_2014-01-03_Arnold_Palmer.md)** (Jan 2014) - Golf legend's philosophy on overcoming setbacks and maintaining grace under pressure
+1. **[Episode #115 - Arnold Palmer](./episode_markdowns/Episode_115_2014-01-03_Arnold_Palmer.md)** (Jan 2014) - Jacksonville man's journey from 17 years in prison to redemption through education and speaking about substance abuse recovery
 
-2. **[Episode #161 - Kalpana DePasquale](./episode_markdowns/Episode_161_2015-01-02_Kalpana_Depasquale.md)** (Jan 2015) - Vietnamese boat person's journey from refugee camps to American success story
+2. **[Episode #161 - Kalpana DePasquale](./episode_markdowns/Episode_161_2015-01-02_Kalpana_Depasquale.md)** (Jan 2015) - Indian-American ENT specialist's journey through thyroid cancer diagnosis to building a more balanced life and medical spa business
 
 3. **[Episode #204 - Winston Allen](./episode_markdowns/Episode_204_2016-03-18_World_Champion_Triathlete_Winston_Allen.md)** (Mar 2016) - 85-year-old world champion triathlete proving age is just a number
 
-4. **[Episode #145 - Ebony Davis](./episode_markdowns/Episode_145_2014-09-05_Ebony_Davis.md)** (Sep 2014) - Young woman's transformation from teenage mother to educational leader
+4. **[Episode #145 - Ebony Davis](./episode_markdowns/Episode_145_2014-09-05_Ebony_Davis.md)** (Sep 2014) - Former social worker's recovery from drug addiction and embezzlement conviction to helping other ex-offenders find work
 
 5. **[Episode #139 - Bishop John Snyder](./episode_markdowns/Episode_139_2014-07-04_Bishop_John_Snyder.md)** (Jul 2014) - Catholic bishop's lifetime of serving Jacksonville's most vulnerable populations
 
-6. **[Episode #183 - John Thomas](./episode_markdowns/Episode_183_2015-07-17_John_Thomas.md)** (Jul 2015) - Former convict's redemption through prison ministry and community service
+6. **[Episode #183 - John Thomas](./episode_markdowns/Episode_183_2015-07-17_John_Thomas.md)** (Jul 2015) - Healthcare executive turned chef launching family recipe bakery business "Me, Myself and Pies" in Five Points
 
-7. **[Episode #135 - Elonya Davis](./episode_markdowns/Episode_135_2014-05-30_Elonya_Davis.md)** (May 2014) - Overcoming severe domestic violence to become an advocate for others
+7. **[Episode #135 - Elonya Davis](./episode_markdowns/Episode_135_2014-05-30_Elonya_Davis.md)** (May 2014) - Natural entrepreneur who became art promoter and married the charcoal artist Adrian Pickett, building Jacksonville gallery and brand
 
-8. **[Episode #194 - Dennis Klee](./episode_markdowns/Episode_194_2016-01-08_Harmonious_Monks_Founder_Dennis_Klee.md)** (Jan 2016) - Founding unique harmony group bringing together diverse Jacksonville communities
+8. **[Episode #194 - Dennis Klee](./episode_markdowns/Episode_194_2016-01-08_Harmonious_Monks_Founder_Dennis_Klee.md)** (Jan 2016) - Musician who founded entertainment restaurant "Harmonious Monks" and transitioned to music store ownership in Julington Creek
 
-9. **[Episode #100 - Freddie Arguilla](./episode_markdowns/Episode_100_2013-09-20_Freddie_Arguilla.md)** (Sep 2013) - Milestone episode showing power of mentorship in overcoming poverty
+9. **[Episode #100 - Freddie Arguilla](./episode_markdowns/Episode_100_2013-09-20_Freddie_Arguilla.md)** (Sep 2013) - Filipino immigrant engineer who transitioned from failing bookbinding business to successful assisted living facilities
 
 10. **[Episode #212 - Warren Miller](./episode_markdowns/Episode_212_2016-06-24_Warren_Miller.md)** (Jun 2016) - The interviewer becomes interviewed, reflecting on what 200+ stories taught him about human resilience
 
