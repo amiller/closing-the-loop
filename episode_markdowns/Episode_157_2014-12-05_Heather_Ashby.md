@@ -7,13 +7,16 @@
 - **Date:** December 05, 2014
 - **Host/Interviewer:** is a novelist, but 13 years ago, her husband and she were retired Navy veterans with two children.
 - **Duration:** Unknown
-- **Transcript Length:** 2,588 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2014-12-05/closing-the-loop-heather-ashby](https://news.wjct.org/closing-the-loop/2014-12-05/closing-the-loop-heather-ashby)
+
+## Transcript Information
+
+- **Length:** 2,588 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -45,5 +48,12 @@ The final novel in Heather Ashby’s “Love in the Fleet” will be published n
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on December 05, 2014*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

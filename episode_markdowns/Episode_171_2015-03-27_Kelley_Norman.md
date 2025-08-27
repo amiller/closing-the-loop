@@ -7,13 +7,16 @@
 - **Date:** March 27, 2015
 - **Host/Interviewer:** going on the program's annual field trip to New York City, where they watch plays and talk to theater professionals about art and craft.
 - **Duration:** Unknown
-- **Transcript Length:** 2,852 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2015-03-27/closing-the-loop-kelley-norman](https://news.wjct.org/closing-the-loop/2015-03-27/closing-the-loop-kelley-norman)
+
+## Transcript Information
+
+- **Length:** 2,852 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -40,5 +43,12 @@ Kelley Norman and Bob Gerard developed strong friendships with the first student
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on March 27, 2015*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

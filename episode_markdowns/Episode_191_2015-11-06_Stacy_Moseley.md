@@ -7,13 +7,16 @@
 - **Date:** November 06, 2015
 - **Host/Interviewer:** Warren Miller
 - **Duration:** Unknown
-- **Transcript Length:** 3,207 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2015-11-06/closing-the-loop-stacy-moseley](https://news.wjct.org/closing-the-loop/2015-11-06/closing-the-loop-stacy-moseley)
+
+## Transcript Information
+
+- **Length:** 3,207 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -46,5 +49,12 @@ Then, about a year ago, she attended an educational conference.
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on November 06, 2015*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

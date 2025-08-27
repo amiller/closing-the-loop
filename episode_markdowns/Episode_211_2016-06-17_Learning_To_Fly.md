@@ -7,13 +7,16 @@
 - **Date:** June 17, 2016
 - **Host/Interviewer:** Warren Miller
 - **Duration:** Unknown
-- **Transcript Length:** 2,878 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2016-06-17/closing-the-loop-learning-to-fly](https://news.wjct.org/closing-the-loop/2016-06-17/closing-the-loop-learning-to-fly)
+
+## Transcript Information
+
+- **Length:** 2,878 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -45,5 +48,12 @@ He’s also deciding what opportunities he has next for work after his wife was
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on June 17, 2016*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

@@ -7,13 +7,16 @@
 - **Date:** April 10, 2015
 - **Host/Interviewer:** the case, and smoked cigarettes, up to two packs a day.”
 - **Duration:** Unknown
-- **Transcript Length:** 2,885 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2015-04-10/closing-the-loop-gary-rodebaugh](https://news.wjct.org/closing-the-loop/2015-04-10/closing-the-loop-gary-rodebaugh)
+
+## Transcript Information
+
+- **Length:** 2,885 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -38,5 +41,12 @@ But before he passed away, Gary had shifted his priorities — not only for trai
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on April 10, 2015*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

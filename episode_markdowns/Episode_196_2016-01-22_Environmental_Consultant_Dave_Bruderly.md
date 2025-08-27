@@ -7,13 +7,16 @@
 - **Date:** January 22, 2016
 - **Host/Interviewer:** the time Bruderly’s three years of merchant marine service were completed, he’d formed some ideas about where he wanted to go next with his life.
 - **Duration:** Unknown
-- **Transcript Length:** 2,997 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2016-01-22/closing-the-loop-environmental-consultant-dave-bruderly](https://news.wjct.org/closing-the-loop/2016-01-22/closing-the-loop-environmental-consultant-dave-bruderly)
+
+## Transcript Information
+
+- **Length:** 2,997 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -35,5 +38,12 @@ He adds, “We are very unique in Jacksonville in that we can take a leadership 
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on January 22, 2016*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

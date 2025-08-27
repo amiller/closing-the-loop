@@ -7,13 +7,16 @@
 - **Date:** January 23, 2015
 - **Host/Interviewer:** Warren Miller
 - **Duration:** Unknown
-- **Transcript Length:** 2,455 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2015-01-23/closing-the-loop-dave-hoce](https://news.wjct.org/closing-the-loop/2015-01-23/closing-the-loop-dave-hoce)
+
+## Transcript Information
+
+- **Length:** 2,455 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -38,5 +41,12 @@ And what he’s doing now is, he says, is what he’s always wanted to do ? “H
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on January 23, 2015*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

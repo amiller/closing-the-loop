@@ -7,13 +7,16 @@
 - **Date:** November 21, 2014
 - **Host/Interviewer:** a friend that will send her right back into the wilderness, with her bike and groups of explorers.
 - **Duration:** Unknown
-- **Transcript Length:** 2,075 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2014-11-21/closing-the-loop-barbara-weber](https://news.wjct.org/closing-the-loop/2014-11-21/closing-the-loop-barbara-weber)
+
+## Transcript Information
+
+- **Length:** 2,075 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -36,5 +39,12 @@ Barbara Weber can’t wait to take groups out to the woods and mountains.
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on November 21, 2014*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

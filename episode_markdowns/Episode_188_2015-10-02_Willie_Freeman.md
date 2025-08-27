@@ -7,13 +7,16 @@
 - **Date:** October 02, 2015
 - **Host/Interviewer:** my grandparents.”
 - **Duration:** Unknown
-- **Transcript Length:** 2,695 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2015-10-02/closing-the-loop-willie-freeman](https://news.wjct.org/closing-the-loop/2015-10-02/closing-the-loop-willie-freeman)
+
+## Transcript Information
+
+- **Length:** 2,695 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -37,5 +40,12 @@ You need a smartcard to drive into the garage where Freeman works, so he doesn�
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on October 02, 2015*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

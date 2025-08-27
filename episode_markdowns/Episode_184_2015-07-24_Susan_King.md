@@ -7,13 +7,16 @@
 - **Date:** July 24, 2015
 - **Host/Interviewer:** some local ministers. Our mission is always to help people through financial crises, so that people don't fall off that cliff that can land you on the street."
 - **Duration:** Unknown
-- **Transcript Length:** 3,093 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2015-07-24/closing-the-loop-susan-king](https://news.wjct.org/closing-the-loop/2015-07-24/closing-the-loop-susan-king)
+
+## Transcript Information
+
+- **Length:** 3,093 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -45,5 +48,12 @@ And as much as Susan King has changed the organization she heads, the job has ch
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on July 24, 2015*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

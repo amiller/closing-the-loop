@@ -7,13 +7,16 @@
 - **Date:** March 06, 2015
 - **Host/Interviewer:** her mother, who died while Victoria was still in college. "I was close to my mother. She was a very independent and strong woman. She was sick for a long time, and he passing may not have been the best thing, it certainly was the right thing. It made realize that every day is precious, and that I needed to do whatever it takes to get to where I needed to be to be happy."
 - **Duration:** Unknown
-- **Transcript Length:** 2,307 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2015-03-06/closing-the-loop-victoria-priester](https://news.wjct.org/closing-the-loop/2015-03-06/closing-the-loop-victoria-priester)
+
+## Transcript Information
+
+- **Length:** 2,307 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -37,5 +40,12 @@ Victoria has started her own wedding planning business. And her occupation has m
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on March 06, 2015*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

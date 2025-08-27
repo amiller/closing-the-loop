@@ -7,13 +7,16 @@
 - **Date:** November 07, 2014
 - **Host/Interviewer:** email or satellite phone. They have a financial planner, and have seen all of their doctors and dentist.
 - **Duration:** Unknown
-- **Transcript Length:** 2,163 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2014-11-07/closing-the-loop-dana-greyson](https://news.wjct.org/closing-the-loop/2014-11-07/closing-the-loop-dana-greyson)
+
+## Transcript Information
+
+- **Length:** 2,163 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -39,5 +42,12 @@ Dana and Wayne have no destination, only the voyage itself.
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on November 07, 2014*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

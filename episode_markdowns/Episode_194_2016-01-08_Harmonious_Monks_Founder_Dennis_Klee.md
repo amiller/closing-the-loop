@@ -7,13 +7,16 @@
 - **Date:** January 08, 2016
 - **Host/Interviewer:** word of mouth. We opened in Neptune Beach in 1997 and in Casselberry in 1998,” he says.
 - **Duration:** Unknown
-- **Transcript Length:** 2,881 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2016-01-08/closing-the-loop-harmonious-monks-founder-dennis-klee](https://news.wjct.org/closing-the-loop/2016-01-08/closing-the-loop-harmonious-monks-founder-dennis-klee)
+
+## Transcript Information
+
+- **Length:** 2,881 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -40,5 +43,12 @@ That was two years ago. Klee decided to open a music store. Klee’s Music, in J
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on January 08, 2016*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

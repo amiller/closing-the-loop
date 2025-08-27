@@ -7,13 +7,16 @@
 - **Date:** June 03, 2016
 - **Host/Interviewer:** a firm out of Atlanta that wanted to start a home-building division in Jacksonville," he said. "Because I had been in home-building in Atlanta, they gave me a great opportunity, and I moved here in 2005."
 - **Duration:** Unknown
-- **Transcript Length:** 3,023 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2016-06-03/closing-the-loop-building-a-future-in-jacksonville](https://news.wjct.org/closing-the-loop/2016-06-03/closing-the-loop-building-a-future-in-jacksonville)
+
+## Transcript Information
+
+- **Length:** 3,023 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -43,5 +46,12 @@ The restoration company ultimately did not work out for Taylor. He went back to 
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on June 03, 2016*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

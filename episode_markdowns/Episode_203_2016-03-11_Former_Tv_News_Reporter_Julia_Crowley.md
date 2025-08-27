@@ -7,13 +7,16 @@
 - **Date:** March 11, 2016
 - **Host/Interviewer:** the weekend was having 20 or 30 seizures a day. And it lasted for a year and a half. He was diagnosed with a brain tumor, and life got a little crazy for us.”
 - **Duration:** Unknown
-- **Transcript Length:** 3,560 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2016-03-11/closing-the-loop-former-tv-news-reporter-julia-crowley](https://news.wjct.org/closing-the-loop/2016-03-11/closing-the-loop-former-tv-news-reporter-julia-crowley)
+
+## Transcript Information
+
+- **Length:** 3,560 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -48,5 +51,12 @@ And she evolved, as well.
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on March 11, 2016*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

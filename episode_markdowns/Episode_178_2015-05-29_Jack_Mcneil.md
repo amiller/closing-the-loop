@@ -7,13 +7,16 @@
 - **Date:** May 29, 2015
 - **Host/Interviewer:** Warren Miller
 - **Duration:** Unknown
-- **Transcript Length:** 3,097 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2015-05-29/closing-the-loop-jack-mcneil](https://news.wjct.org/closing-the-loop/2015-05-29/closing-the-loop-jack-mcneil)
+
+## Transcript Information
+
+- **Length:** 3,097 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -48,5 +51,12 @@ McNeil said, “I can't see myself completely retiring. I enjoy being around peo
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on May 29, 2015*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

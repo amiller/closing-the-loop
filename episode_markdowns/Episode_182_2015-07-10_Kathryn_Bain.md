@@ -7,13 +7,16 @@
 - **Date:** July 10, 2015
 - **Host/Interviewer:** is two, my oldest daughter is getting married again and my youngest is graduating from college. I've been a paralegal for 27 years and have a wonderful boss,” Bain said. “And I have seven books out! I'm moving. That's what you've gotta do, you gotta move."
 - **Duration:** Unknown
-- **Transcript Length:** 3,048 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2015-07-10/closing-the-loop-kathryn-bain](https://news.wjct.org/closing-the-loop/2015-07-10/closing-the-loop-kathryn-bain)
+
+## Transcript Information
+
+- **Length:** 3,048 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -46,5 +49,12 @@ Kathryn Bain is both writing and reading. But not because her life isn't going w
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on July 10, 2015*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

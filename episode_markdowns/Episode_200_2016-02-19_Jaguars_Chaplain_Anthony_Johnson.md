@@ -7,13 +7,16 @@
 - **Date:** February 19, 2016
 - **Host/Interviewer:** the Indianapolis Colts.”
 - **Duration:** Unknown
-- **Transcript Length:** 3,510 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2016-02-19/closing-the-loop-jaguars-chaplain-anthony-johnson](https://news.wjct.org/closing-the-loop/2016-02-19/closing-the-loop-jaguars-chaplain-anthony-johnson)
+
+## Transcript Information
+
+- **Length:** 3,510 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -45,5 +48,12 @@ And although he never loses sight of the spiritual purpose of his calling, Antho
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on February 19, 2016*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

@@ -7,13 +7,16 @@
 - **Date:** June 24, 2016
 - **Host/Interviewer:** Glenn Stetson to join The Diamonds as a singer and piano player, and traveled the country for five years in the mid '80s. We were regulars on Ralph Emery's show on The Nashville Network, we played the Beacon Theater in New York, the Universal Amphitheater in L.A., and dozens of state fairs. All the while, I was writing and editing magazine articles, using an early portable computer, on airplanes and in hotel rooms.
 - **Duration:** Unknown
-- **Transcript Length:** 4,332 characters
-- **Format:** Interview (Q&A)
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2016-06-24/closing-the-loop-closing-my-own-loop](https://news.wjct.org/closing-the-loop/2016-06-24/closing-the-loop-closing-my-own-loop)
+
+## Transcript Information
+
+- **Length:** 4,332 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -72,5 +75,12 @@ I'm working with two people on a health and wellness feature program for public 
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on June 24, 2016*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*

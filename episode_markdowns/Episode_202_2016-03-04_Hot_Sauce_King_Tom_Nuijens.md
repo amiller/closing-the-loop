@@ -7,13 +7,16 @@
 - **Date:** March 04, 2016
 - **Host/Interviewer:** some measures, the most difficult industry in which to succeed – has a more realistic view.
 - **Duration:** Unknown
-- **Transcript Length:** 3,565 characters
-- **Format:** Narrative
 - **Original URL:** [https://news.wjct.org/closing-the-loop/2016-03-04/closing-the-loop-hot-sauce-king-tom-nuijens](https://news.wjct.org/closing-the-loop/2016-03-04/closing-the-loop-hot-sauce-king-tom-nuijens)
+
+## Transcript Information
+
+- **Length:** 3,565 characters
+- **Source:** 📝 **Complete Webpage Content**
 
 ---
 
-## Transcript
+## Interview Transcript
 
 Closing The Loop
 By
@@ -50,5 +53,12 @@ He suggests, “Give me about $500,000. I’ll keep half and give you the other 
 
 ---
 
-*Part of the "Closing the Loop" series by Warren Miller on WJCT Public Radio*  
-*This episode was originally broadcast on March 04, 2016*
+## Episode Context
+
+This episode is part of Warren Miller's "Closing the Loop" series on WJCT, exploring how North Florida residents cope with drastic life changes and adapt to their new realities.
+
+
+
+---
+
+*Episode preserved as part of the Warren Miller "Closing the Loop" digital archive*
