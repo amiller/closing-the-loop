@@ -42,6 +42,30 @@ This repository contains the complete digital preservation of 113 episodes spann
 - Rural-to-urban migration within Florida
 - National migration patterns converging on Florida
 
+## Claude's Selection - 10 Most Compelling Episodes
+
+1. **[Episode #115 - Arnold Palmer](./episode_markdowns/Episode_115_2014-01-03_Arnold_Palmer.md)** (Jan 2014) - Golf legend's philosophy on overcoming setbacks and maintaining grace under pressure
+
+2. **[Episode #161 - Kalpana DePasquale](./episode_markdowns/Episode_161_2015-01-02_Kalpana_Depasquale.md)** (Jan 2015) - Vietnamese boat person's journey from refugee camps to American success story
+
+3. **[Episode #204 - Winston Allen](./episode_markdowns/Episode_204_2016-03-18_World_Champion_Triathlete_Winston_Allen.md)** (Mar 2016) - 85-year-old world champion triathlete proving age is just a number
+
+4. **[Episode #145 - Ebony Davis](./episode_markdowns/Episode_145_2014-09-05_Ebony_Davis.md)** (Sep 2014) - Young woman's transformation from teenage mother to educational leader
+
+5. **[Episode #139 - Bishop John Snyder](./episode_markdowns/Episode_139_2014-07-04_Bishop_John_Snyder.md)** (Jul 2014) - Catholic bishop's lifetime of serving Jacksonville's most vulnerable populations
+
+6. **[Episode #183 - John Thomas](./episode_markdowns/Episode_183_2015-07-17_John_Thomas.md)** (Jul 2015) - Former convict's redemption through prison ministry and community service
+
+7. **[Episode #135 - Elonya Davis](./episode_markdowns/Episode_135_2014-05-30_Elonya_Davis.md)** (May 2014) - Overcoming severe domestic violence to become an advocate for others
+
+8. **[Episode #194 - Dennis Klee](./episode_markdowns/Episode_194_2016-01-08_Harmonious_Monks_Founder_Dennis_Klee.md)** (Jan 2016) - Founding unique harmony group bringing together diverse Jacksonville communities
+
+9. **[Episode #100 - Freddie Arguilla](./episode_markdowns/Episode_100_2013-09-20_Freddie_Arguilla.md)** (Sep 2013) - Milestone episode showing power of mentorship in overcoming poverty
+
+10. **[Episode #212 - Warren Miller](./episode_markdowns/Episode_212_2016-06-24_Warren_Miller.md)** (Jun 2016) - The interviewer becomes interviewed, reflecting on what 200+ stories taught him about human resilience
+
+These selections represent the full spectrum of human experience while showcasing Warren Miller's gift for finding extraordinary stories in ordinary lives.
+
 ## Suggested Tagging System
 
 **Transition Type Tags:**
@@ -59,29 +83,6 @@ This repository contains the complete digital preservation of 113 episodes spann
 **Demographic Tags:**
 `senior-adults`, `middle-age`, `young-professionals`, `veterans`, `immigrants`, `women-entrepreneurs`, `faith-community`
 
-## Claude's Selection - 10 Most Compelling Episodes
-
-1. **Episode #115 - Arnold Palmer** (Jan 2014) - Golf legend's philosophy on overcoming setbacks and maintaining grace under pressure
-
-2. **Episode #161 - Kalpana DePasquale** (Jan 2015) - Vietnamese boat person's journey from refugee camps to American success story
-
-3. **Episode #204 - Winston Allen** (Mar 2016) - 85-year-old world champion triathlete proving age is just a number
-
-4. **Episode #145 - Ebony Davis** (Sep 2014) - Young woman's transformation from teenage mother to educational leader
-
-5. **Episode #139 - Bishop John Snyder** (Jul 2014) - Catholic bishop's lifetime of serving Jacksonville's most vulnerable populations
-
-6. **Episode #183 - John Thomas** (Jul 2015) - Former convict's redemption through prison ministry and community service
-
-7. **Episode #135 - Elonya Davis** (May 2014) - Overcoming severe domestic violence to become an advocate for others
-
-8. **Episode #194 - Dennis Klee** (Jan 2016) - Founding unique harmony group bringing together diverse Jacksonville communities
-
-9. **Episode #100 - Freddie Arguilla** (Sep 2013) - Milestone episode showing power of mentorship in overcoming poverty
-
-10. **Episode #212 - Warren Miller** (Jun 2016) - The interviewer becomes interviewed, reflecting on what 200+ stories taught him about human resilience
-
-These selections represent the full spectrum of human experience while showcasing Warren Miller's gift for finding extraordinary stories in ordinary lives.
 
 ## Collection Summary
 
@@ -179,12 +180,6 @@ Beyond the technical achievement, this project preserves Warren Miller's remarka
 The show evolved from exploring how people coped with "the worst economic downturn since the Great Depression" into a broader weekly exploration of human resilience, hope, and community strength.
 
 ## Usage
-
-The complete archive is available in `closing_the_loop_final_collection.json`, containing:
-- Full episode metadata (dates, titles, URLs)
-- Complete interview transcripts
-- Audio file locations and details
-- Processing history and source attribution
 
 Individual episodes are also available as markdown files in the `episode_markdowns/` directory for easy reading and research.
 
